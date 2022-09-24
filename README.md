@@ -1,6 +1,7 @@
 # Welcome to My Basecamp 1
 
 My_Basecamp: https://my-basecamp-1.herokuapp.com
+I made it with my groupmate https://github.com/slvBek
 
 ## Task
 In this project we should create User registration, Session page than role permision for admin user than create project part.
